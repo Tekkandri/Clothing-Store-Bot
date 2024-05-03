@@ -10,7 +10,7 @@ import keyboards
 
 import database
 
-ADMIN_ID = 1319127042
+ADMIN_ID = *
 
 ADMIN_WELCOME_MESSAGE = """*Здравствуйте \!* _Это ваш покорный слуга_\. 
 Чтобы вы хотели во мне изменить \?"""
